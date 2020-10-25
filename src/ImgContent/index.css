@@ -22,7 +22,8 @@
 }
 
 .post-img{
-  width: 100%;
+  width: auto;
+  height: 250px;
   margin-bottom: 4px;
 }
 .good-p{
